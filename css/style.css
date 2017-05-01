@@ -6,6 +6,20 @@ http://www.tooplate.com/view/2080-minimax
 
 */
 
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 67%;
+}
+
+table td {
+    border: solid 2px #dc5034;
+    width: 200px;
+    word-wrap: break-word;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
 body {
     background: #fff;
     font-family: 'lane_-_narrowregular', sans-serif;
